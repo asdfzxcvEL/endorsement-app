@@ -1,0 +1,98 @@
+html, body {
+    margin: 0px;
+    padding: 0;
+    background: #1B1924;
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 105px;
+    height: 105px;
+    top: 51px;
+    left: 150px;
+    margin: 0px auto 4px;
+}
+
+h1 {
+    font-family: "Josefin Sans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 25px;
+    margin-bottom: 22px;
+}
+
+textarea {
+    font-family: "Inter", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17.5px;
+    font-weight: 400;
+    line-height: 18px;
+    color: white;
+    background: #444059;
+    border: none;
+    width: 324px;
+    padding: 15px 25px 103px 25px;
+    border-radius: 10px;
+    margin-bottom: 11px;
+    resize: none;
+    
+}
+
+.input-person {
+    font-family: "Inter", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+    width: 174px;
+    height: 30px;
+    padding: 12px 4px 0px 4px;
+    margin: 0px 3px 10px 3px;
+}
+
+button {
+    font-family: "Josefin Sans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: center;
+    background: #28A9F1;
+    border: none;
+    border-radius: 10px;
+    padding: 29px 144px 20px 144px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-family: "Josefin Sans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 22px;
+    color: white;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+}
+
+li {
+    font-family: "Inter", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1B1924;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17px;
+    width: 354px;
+    list-style-type: none;
+    background: white;
+    margin-bottom: 13px;
+    padding: 10px;
+}
